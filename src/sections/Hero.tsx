@@ -77,7 +77,7 @@ export const HeroSection = () => {
           </button>
           <button className='inline-flex items-center gap-2 border border-white bg-white text-gray-900 h-12 px-6 rounded-xl'>
             <span>👋</span>
-            <a href='mailto:mkhservices003@gmail.com' className='font-semibold z-0'>Let&apos;s Connect</a>
+            <a target='_blank' href='https://drive.google.com/file/d/1kdIaH_pFVdZjtrjNt_UzIXBeUi-C68sf/view?usp=sharing' className='font-semibold z-0'>My Resume</a>
           </button>
         </div>
       </div>
